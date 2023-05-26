@@ -9,7 +9,7 @@
 
 Затем создаем `Vagrantfile`
 
-содердание: `Vagrantfile`:
+содердание:  `Vagrantfile`:
 ```
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
